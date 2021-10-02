@@ -17,6 +17,6 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=eriestrisnadi&locale=en&include_all_commits=true&bg_color=DEG,3d4451,2a2e37&text_color=fff&title_color=ebecf099&hide_border=true" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriestrisnadi&locale=en&bg_color=DEG,3d4451,2a2e37&text_color=fff&title_color=ebecf099&hide_border=true&layout=compact" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=eriestrisnadi&locale=en&include_all_commits=true&bg_color=DEG,3d4451,2a2e37&text_color=fff&title_color=ebecf099&hide_border=true" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriestrisnadi&locale=en&bg_color=DEG,3d4451,2a2e37&text_color=fff&title_color=ebecf099&hide_border=true&layout=compact" height="150px">
 </div>
