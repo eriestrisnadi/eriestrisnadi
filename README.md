@@ -22,7 +22,7 @@ Welcome to my little corner of GitHub! I’m just a curious tech enthusiast who 
 - Enhance my skills in **modern web development** and **low-level programming**.
 - Dive deeper into binary analysis and develop tools to assist reverse engineering workflows.
 - Build some cool **game mods** to add spice to old favorites.
-- Dive deeper into **reverse engineering** (because who doesn’t love cracking mysteries?).
+- Dive deeper into **reverse engineering** *(because who doesn’t love cracking mysteries?)*.
 - Make tools that help others get their modding or coding adventures started.
 - Continue contributing to **open-source projects** and collaborating with the community.
 
@@ -43,7 +43,7 @@ Welcome to my little corner of GitHub! I’m just a curious tech enthusiast who 
     <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"/></code>
     <code><img height="24" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/raspberry-pi/raspberry-pi.png"/></code>
 </a>
-
+<br/><br/>
 <sub>**(This list isn’t exhaustive—I like to dabble in new tools and tech all the time.)**</sub>
 
 ---
