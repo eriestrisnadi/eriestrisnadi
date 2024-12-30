@@ -14,7 +14,7 @@ Welcome to my little corner of GitHub! I’m just a curious tech enthusiast who 
 ## 💻 What I Do
 ### 🌟 Focus Areas
 - **Web Development:** Turning caffeine and creativity into user-friendly web apps.
-- **Reverse Engineering & Modding:** Figuring out how things tick and then making them tick differently ~*(in a good way)*~.
+- **Reverse Engineering & Modding:** Figuring out how things tick and then making them tick differently *(~maybe~ in a good way)*.
 - **Open Source:** Sharing stuff that others might find handy or fun.
 
 
@@ -44,7 +44,7 @@ Welcome to my little corner of GitHub! I’m just a curious tech enthusiast who 
     <code><img height="24" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/raspberry-pi/raspberry-pi.png"/></code>
 </a>
 <br/><br/>
-<sub>**(This list isn’t exhaustive—I like to dabble in new tools and tech all the time.)**</sub>
+<sub><em>(This list isn’t exhaustive—I like to dabble in new tools and tech all the time.)</em></sub>
 
 ---
 
